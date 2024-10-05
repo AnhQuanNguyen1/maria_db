@@ -1,0 +1,6 @@
+[
+    { "product_name": "Laptop", "price": 1200.00, "stock": 10 },
+    { "product_name": "Smartphone", "price": 800.00, "stock": 20 },
+    { "product_name": "Tablet", "price": 600.00, "stock": 15 }
+  ]
+  
